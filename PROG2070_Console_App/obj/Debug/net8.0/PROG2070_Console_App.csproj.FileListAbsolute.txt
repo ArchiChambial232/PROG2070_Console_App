@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\bin\Debug\net8.0\PROG2070_Console_App.exe
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\bin\Debug\net8.0\PROG2070_Console_App.deps.json
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\bin\Debug\net8.0\PROG2070_Console_App.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\bin\Debug\net8.0\PROG2070_Console_App.dll
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\bin\Debug\net8.0\PROG2070_Console_App.pdb
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\obj\Debug\net8.0\PROG2070_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\obj\Debug\net8.0\PROG2070_Console_App.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\obj\Debug\net8.0\PROG2070_Console_App.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\obj\Debug\net8.0\PROG2070_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\obj\Debug\net8.0\PROG2070_Console_App.dll
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\obj\Debug\net8.0\refint\PROG2070_Console_App.dll
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\obj\Debug\net8.0\PROG2070_Console_App.pdb
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\obj\Debug\net8.0\PROG2070_Console_App.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\PROG2070-24W\PROG2070_Console_App\PROG2070_Console_App\obj\Debug\net8.0\ref\PROG2070_Console_App.dll
